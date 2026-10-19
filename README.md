@@ -1,4 +1,4 @@
-## Hi there 👋
+## Look at me 👀
 
 <!--
 **deceased16/deceased16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
